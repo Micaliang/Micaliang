@@ -8,7 +8,7 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 
 ## 🎓 Education
 - **Master of Data Science & Analytics** | Universiti Kebangsaan Malaysia (UKM) | 2027
-- **Bachelor of [Marketing]** | Guilin University of Electronic Technology | 2016
+- **Bachelor of Marketing** | Guilin University of Electronic Technology | 2016
 
 ## 🛠️ Skills & Tools
 
