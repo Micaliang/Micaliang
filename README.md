@@ -46,7 +46,7 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 - Link: [项目1的GitHub仓库链接]
 
 ### 2. [你的项目2名称]
-- Description: [项目2一句话介绍，比如 "电商用户行为数据分析"]
+- Description: [Iris Dataset Classification with Apache Spark MLlib]
 - Link: [https://github.com/Micaliang/P156872_LIANG_HAIZHU_STQD6324_Assignment1]
 
 ### 3. [你的项目3名称]
