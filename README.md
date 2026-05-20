@@ -45,8 +45,8 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 - Description: [项目1一句话介绍，比如 "风信子生长周期数据可视化"]
 - Link: [项目1的GitHub仓库链接]
 
-### 2. [你的项目2名称]
-- Description: [Iris Dataset Classification with Apache Spark MLlib]
+### 2. [Iris Dataset Classification with Apache Spark MLlib]
+- Description: [Iris flower classification using Spark MLlib with model evaluation and selection.]
 - Link: [https://github.com/Micaliang/P156872_LIANG_HAIZHU_STQD6324_Assignment1]
 
 ### 3. [你的项目3名称]
