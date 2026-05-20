@@ -47,7 +47,7 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 
 ### 2. [你的项目2名称]
 - Description: [项目2一句话介绍，比如 "电商用户行为数据分析"]
-- Link: [项目2的GitHub仓库链接]
+- Link: [https://github.com/Micaliang/P156872_LIANG_HAIZHU_STQD6324_Assignment1]
 
 ### 3. [你的项目3名称]
 - Description: [项目3一句话介绍，比如 "SQL基础练习与查询实践"]
