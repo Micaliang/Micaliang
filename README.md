@@ -41,9 +41,9 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## 📌 Highlighted Projects
-### 1. [你的项目1名称]
-- Description: [项目1一句话介绍，比如 "风信子生长周期数据可视化"]
-- Link: [项目1的GitHub仓库链接]
+### 1. Data Science Project_1
+- Description: n OOP-based refrigerator item management program with inheritance and stock checking functions.
+- Link: https://github.com/Micaliang/Data-Science/tree/main/Project_1
 
 ### 2. Iris Dataset Classification with Apache Spark MLlib
 - Description: Iris flower classification using Spark MLlib with model evaluation and selection.
