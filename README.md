@@ -41,7 +41,7 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## 📌 Highlighted Projects
-### 1. Data Science Project 1
+### 1. Python OOP Fridge Management Tool
 - Description: n OOP-based refrigerator item management program with inheritance and stock checking functions.
 - Link: https://github.com/Micaliang/Data-Science/tree/main/Project_1
 
@@ -49,7 +49,7 @@ I'm a data science enthusiast who enjoys turning data into clear and meaningful 
 - Description: Iris flower classification using Spark MLlib with model evaluation and selection.
 - Link: https://github.com/Micaliang/P156872_LIANG_HAIZHU_STQD6324_Assignment1
 
-### 3. Unstructured Data Analysis Project 1
+### 3. End-to-End Unstructured Text Analysis
 - Description: An unstructured text analysis pipeline covering scraping, exploration, topic modelling, clustering, and sentiment analysis.
 - Link: https://github.com/Micaliang/Unstructured-Data-Analytics/blob/main/Project_1.zip
 
